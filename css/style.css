@@ -1,0 +1,42 @@
+body{
+    font-family: arial;
+    background-color: #9850AF;
+}
+
+.container{
+    width: 300px;
+    height: 200px;
+    margin: 50px auto;
+    background-color: #3BEAB4;
+    
+}
+
+#place{
+
+    padding: 5px;
+    width: 150px;
+    margin: 50px auto;
+    margin-left: 20px;
+
+}
+
+#result{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: x-large;
+    
+}
+
+button {
+
+    background-color: #F46D63;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 5px;
+    width: 100px;
+    margin: 35px auto;
+
+}
+
